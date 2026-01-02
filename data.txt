@@ -1,0 +1,3 @@
+halo, ini data pertama
+belajar python minggu 2
+ini baris yang saya tambahkanpada latihan selanjutnya
